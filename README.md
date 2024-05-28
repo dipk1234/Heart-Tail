@@ -1,7 +1,7 @@
 # Heart-Tail
-Install
+##Install
   Vs code
-#Web Development
+##Web Development
    HTML
    CSS
    JavaScript 
